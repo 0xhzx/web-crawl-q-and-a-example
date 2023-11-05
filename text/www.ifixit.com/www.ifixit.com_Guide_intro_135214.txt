@@ -1,0 +1,721 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Editing Logic Board Disconnection Intro - iFixit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fix Your Stuff
+Join the Community
+Store
+
+
+
+
+
+
+
+
+
+Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+View
+
+
+ 
+
+
+
+Options 
+
+
+
+
+
+            Translation Dashboard               
+
+
+
+            History               
+
+
+
+
+
+
+
+Logic Board Disconnection
+
+
+
+
+
+
+
+
+
+         Steps               
+
+Save or
+         Cancel
+
+Saving...
+
+
+
+
+
+1
+
+
+
+2
+
+
+
+3
+
+
+
+4
+
+
+
+5
+
+
+
+6
+
+
+
+7
+
+
+
+8
+
+
+
+9
+
+
+
+10
+
+
+
+11
+
+
+
+12
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+         Create a New Device
+
+         Make other people awesome by teaching them what you know. Device pages automatically display related information.      
+
+Title
+
+
+
+Summary
+
+
+
+Cancel
+Create It
+
+
+
+
+
+
+
+
+
+Introduction
+
+
+Details
+
+
+Guide Steps
+
+
+
+
+
+
+
+
+
+
+%device %thing Replacement
+%device Disassembly
+%device Teardown
+How to %device
+
+What type of guide is this?
+
+Replacement
+Disassembly
+Teardown
+Technique
+
+
+
+We organize guides by the type of procedure they explain.
+Replacement
+Most guides. How to swap out a particular component.
+Disassembly
+Completely dismantle and remove every component. For repairs like water damage cleaning.
+Teardown
+A fun, educational disassembly to get a look inside; not intended to be followed for repair.
+Technique
+Tips, tricks, or shortcuts. Explain how to do something like use a tool or calibrate a part.
+
+
+
+
+                     Device               
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+               Click here if you would like to create the category.            
+
+
+What device are you working on? If other guides for this device already exist, be sure to use consistent spelling and capitalization.
+This field is required.
+Device contains invalid characters. The characters # < > [ ] | { } , + ? & / \ % : ; $ ^ * and tabs are not allowed.
+
+
+
+
+
+
+
+
+
+Describe the specific part or component of this device you're working on. Ex: Battery
+
+
+
+               Title               
+
+
+
+Create a title.
+
+
+
+
+
+
+
+
+
+
+3000
+
+      Introduction         
+
+
+
+
+
+Flags
+
+ 
+
+                        Action Shots                        
+ 
+
+Be an action hero! This guide needs images that better demonstrate how to perform specific actions.
+
+
+
+ 
+
+                        Better Introduction                        
+ 
+
+Improve this guide by completing or revising its introduction.
+
+
+
+ 
+
+                        Bullets!                        
+ 
+
+Better coordination with markups and the color/type of bullets will help make this guide more clear!
+
+
+
+ 
+
+                        Confusing Text                        
+ 
+
+Some of this guide's text is confusing, duplicated, or off-topic. Clarify it by editing!
+
+
+
+ 
+
+                        Grammar Police                        
+ 
+
+Embrace your inner English teacher and help improve this guide's grammar!
+
+
+
+ 
+
+                        In Progress                        
+ 
+
+This guide is a work in progress. Reload periodically to see the latest changes!
+
+
+
+ 
+
+                        Inconsistent Images                        
+ 
+
+Updating the images on this guide to be more consistent with the prerequisites would increase its awesomeness.
+
+
+
+ 
+
+                        Incorrect Tools                        
+ 
+
+Help make this guide better by using the correct tools in images and/or text.
+
+
+
+ 
+
+                        Markup Mishap                        
+ 
+
+This guide needs better markups. Help out by correcting or making some markup annotations.
+
+
+
+ 
+
+                        Medical Equipment                        
+ 
+
+Neither iFixit nor this repair guide is endorsed by or affiliated with the medical device manufacturer.
+
+
+
+ 
+
+                        Mismatched Prerequisites                        
+ 
+
+This guide does not have a proper prerequisite guide. Help match it to its ideal partner by finding it or writing one!
+
+
+
+ 
+
+                        Missing Details                        
+ 
+
+Some of this guide's details are missing. Help users by adding tools, difficulty, or time.
+
+
+
+ 
+
+                        Missing Prerequisites                        
+ 
+
+This guide is missing information on how to start the process. Make a prerequisite guide!
+
+
+
+ 
+
+                        Missing Steps                        
+ 
+
+Oops! This guide is currently missing one or more important steps.
+
+
+
+ 
+
+                        Needs Better Images                        
+ 
+
+Better photos will improve this guide. Help out by taking, editing, or uploading new ones!
+
+
+
+ 
+
+                        Needs More Images                        
+ 
+
+A few more images would make this guide's procedures crystal clear.
+
+
+
+ 
+
+                        Needs Transcription                        
+ 
+
+This guide is in video form only. Help make it more accessible by transcribing each action of the procedure into a separate step and adding photos.
+
+
+
+ 
+
+                        Request Guide Deletion                        
+ 
+
+This guide will be reviewed by admins for deletion.
+
+
+
+ 
+
+                        Scenic Route                        
+ 
+
+This guide's procedure isn't the most efficient way to get the job done, but still may be useful in some circumstances.
+
+
+
+ 
+
+                        Slice and Dice                        
+ 
+
+The steps in this guide should be split up and made into a series of prerequisite guides.
+
+
+
+ 
+
+                        Step Trimmer                        
+ 
+
+This guide has unnecessary steps. Trim them to be more concise!
+
+
+
+ 
+
+                        Prerequisite Only                        
+ 
+
+This guide is only intended to be used as a prerequisite for other guides. It's incomplete by itself.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Save
+
+
+
+
+Preview Introduction
+
+
+
+
+
+Editing Introduction
+
+Guide Steps »
+
+
+Your contributions are licensed under the open source Creative Commons license.
+
+
+
+ 
+
+ 
+ 
+
+ 
+
+
+

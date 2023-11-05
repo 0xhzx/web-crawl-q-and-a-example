@@ -1,0 +1,483 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document History - iFixit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fix Your Stuff
+Join the Community
+Store
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Back to Help Index
+
+
+
+
+
+
+
+
+Content
+
+
+Categories
+
+
+
+Getting Started
+Categorization Basics
+Category Media
+Category History
+
+
+
+
+
+Guides
+
+
+
+Getting Started
+Introduction
+Details
+Guide Steps
+Guide Media
+Guide History
+Comments
+Data Capture
+Embedding and Exporting
+
+
+
+
+
+Wikis
+
+
+
+Getting Started
+Wiki Media
+Wiki History
+Wiki Formatting and Syntax
+Tables
+
+
+
+
+
+Items
+
+
+
+Getting Started
+Item Media
+Item History
+
+
+
+
+
+Q & A
+
+
+
+Getting Started
+Navigating Answers
+Moderating Answers
+Community Moderation
+
+
+
+
+
+Rich Media
+
+
+
+Using Media
+
+
+
+
+
+History
+
+
+
+Document History
+Version Control
+
+
+
+
+
+Site Customization
+
+
+Content Management
+
+
+
+Management Console
+Category Manager
+Site Explorer
+New Guides Tool
+Permissions Manager
+Permissions and Patrolling
+Notification Manager
+Reports
+Reputation
+Version Control Management Page
+
+
+
+
+
+Site Customization
+
+
+
+Appearance Tab
+Header and Footer Styling
+
+
+
+
+
+Advertising
+
+
+
+eCommerce Integration
+
+
+
+
+
+User Management
+
+
+
+Managing Users
+User Account
+Teams
+
+
+
+
+
+
+
+
+Document History
+
+Overview
+A page’s history shows you the entire timeline of changes to the guide. You can even revert back to any previous state. To see the revision history, click the "History" tab in the upper right corner of the guide. From here, you can view all of the recent editing activity on a specific page. The history view also shows contribution statistics.
+Guide History
+On step-by-step guides, you can browse revisions as visual snapshots from the page's history. This view allows you to step back through time, unrolling changes one at a time.
+Who Can View a Guide's History?
+Anybody can view the history of a guide, but only admins or page creators can revert to past guide revisions.
+Parts of the History Tab
+The "History" tab has three main sections, History, Past Guide Revisions, and Guide Ownership.
+History
+The main section of this page is the recent history. It shows all of the edits that have been made to the page recently.
+
+You can click on any of the edits in blue and it will link to a page showing exactly what was changed.The name to the right of the edit shows who made it. Clicking it will send you to their profile page. Profiles with diamonds to the right of their names are Administrators.Some edits will have lines through them and will say "denied" in parentheses. These indicate edits that were made and then denied using the Permissions Manager.
+Browse Revisions
+On all guide pages, there is a "Browse past guide revisions" section. This tool allows you to view and revert to old editions of the guide.
+
+To view a screenshot of or revert to an older guide:
+
+Click the "changes over time" link. This will take you to a page with the most recent version of the guide page and a drop down menu in the top right.To view one edit earlier or later, you can click "Newer" or "Older." If you want to view a specific date and time, click on the drop down menu and select the desired date. These will pull up snapshots of how the page looked after the edits at that time and date.If you want to revert the page back to the date selected, you can click the "Revert to this version" button after selecting a date. This creates a new live version of the guide that is a copy of the version you are reverting to. This means that you do not have to worry about losing any recent edits. If the current version is from September 13th, and you revert the guide to the version from September 9th, it will copy the September 9th version and make it into a new version with the current date, say September 22nd. Want to go back to the September 13th version? Simply select it from the drop-down menu and revert to it.
+Guide Ownership
+If public editing is enabled on your site, you will see a section under a guide's history titled "Guide Ownership". In this section, you can see exactly how much people have contributed to the final document. This distribution is updated periodically. It does not update immediately after each change.
+
+Every profile that has contributed a significant amount of information to this page will appear here with the percentage of the page that they added. This takes into account creating steps, uploading pictures, etc. If this is a guide page, the Reputation awarded from successful completion of this guide is split proportionately between all contributors to the page based on this percentage.
+Duplicating a Guide
+It is possible to create an exact copy of a guide you've already written. To do so, go to your management console. Next, click content and navigate to the "'Guide Duplicator'" tab. Locate the guide ID number for the guide you want to duplicate. Enter the Guide ID into the text box and hit "Duplicate". A link to your new guide will appear on the right.
+Note: if you are duplicating a guide that contains prerequisites, make sure to check the "'Inline Prerequisite Guides" box.
+
+Category  History
+Overview
+A category's history shows you the entire timeline of changes to a category. To see the revision history, click the "History" tab in the upper right corner of the category.
+Who Can View a Category's History?
+Anybody can view the history of a category, but only admins or page creators can revert to past guide revisions.
+Category History
+On any category page, there will be a section titled "Category History." This section does not allow for any revisions, but it will show you all of the categories that the current category has been placed in over time.
+
+Item and Wiki Page History
+Overview
+A Wiki's history shows you the entire timeline of changes to that wiki. To see the history of a Wiki, click the "History" tab in the upper right corner of any document. From here, you can view all of the recent editing activity on a specific page.
+History
+The main section of this page is the recent history. It shows all of the edits that have been made to the page recently.
+
+You can click on any of the edits in blue and it will link to a page showing exactly what was changed.The name to the right of the edit shows who made it. Clicking it will send you to their profile page. Profiles with diamonds to the right of their names are Administrators.Some edits will have lines through them and will say "denied" in parentheses. 
+These indicate edits that were made and then denied using the Permissions Manager.
+ Go back to the Help Index  
+
+
+
+
+
+Was this article helpful to you?
+Yes
+No
+Thanks for your feedback!
+
+
+Didn't find the answer you were looking for?
+Ask a Question
+
+
+
+
+Your vote has been recorded.
+Tell us more. (optional)
+
+
+
+
+2000 characters remaining.
+Send
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+ 
+
+
+ 
+
+
+

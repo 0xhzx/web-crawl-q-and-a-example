@@ -1,0 +1,4371 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iBook G3 12" Display Replacement - iFixit Repair Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fix Your Stuff
+Join the Community
+Store
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+iBook G3 12" Display Replacement
+
+
+
+
+
+ 
+
+
+Introduction
+Change out the entire display assembly, including the inverter, Airport antenna, hinges and plastic casing. 
+
+
+
+
+What you need
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 1
+
+                  Battery               
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Use a coin to rotate the battery locking screw 90 degrees clockwise.
+
+
+
+ 
+Lift the battery out of the computer.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          One comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 2
+
+                  Keyboard               
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Pull the keyboard release tabs toward you and lift up on the keyboard until it pops free.
+
+
+
+ 
+If the keyboard does not come free, use a small flathead screwdriver to turn the keyboard locking screw 180 degrees in either direction and try again.
+
+
+
+ 
+Flip the keyboard over, away from the screen, and rest it face-down on the trackpad area.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 3
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+If the computer does not have an Airport card installed, skip the next two steps.
+
+
+
+ 
+Push the wire clasp toward the Airport card and pull it up to free it from the RAM shield.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 4
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Grasp the clear plastic tab on the Airport card and pull toward the right.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 5
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Hold the Airport card in one hand and use your other hand to remove the antenna cable.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 6
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Remove the two 2.5 mm Phillips screws that secure the RAM shield.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 7
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Grasp the metal bracket on top of the RAM shield and pull upward to remove the shield.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 8
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Pull the keyboard cable up from the logic board, holding the cable as close to the connector as possible.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          2 comments                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 9
+
+                  Lower Case               
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Your laptop should look approximately like this.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          3 comments                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 10
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Use a pin (or anything you like) to remove the three rubber feet from the lower case.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 11
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Remove the three 5.2 mm newly-revealed Phillips screws.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          3 comments                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 12
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Use a spudger or small flathead screwdriver to pry up the three metal rings that housed the rubber bumpers.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 13
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Remove the one 10 mm and two 20 mm hex screws using a 2mm hex. Alternatively, a T8 Torx screwdriver key will do.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          5 comments                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 14
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Remove the two 4.2 mm Phillips screws on either side of the battery contacts.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 15
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Breathe deeply. Trying times are ahead, but we promise the lower case does come off.
+
+
+
+ 
+Push the thin rims of the lower case surrounding the battery compartment in, bending them past the tabs, and then lift up to free that corner of the lower case.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 16
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+There is a slot on the wall of the battery compartment that locks the lower case in place. Use a small flathead screwdriver to pry out the slot's lower rim and pull up on the lower case to free the slot from the tabs holding it.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          One comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+Step 17
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Run a spudger along the seam between the lower case and upper case on the front of the computer to free the tabs locking the lower case. Pull up on the lower case and continue to use the spudger as necessary until you hear three distinct clicks.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 18
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Continue to run the spudger around the front, right corner. There are two tabs on the port side of the computer, one near the front corner and one near the sound out port.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          2 comments                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 19
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Once the front and sides of the lower case are free, turn the computer so that the back is facing you and pull the lower case up and toward you until the back tabs pop free (it may be helpful to jiggle the case up and down).
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          3 comments                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 20
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Remove the small greasy springs with white plastic caps from either side of the battery contacts.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          One comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 21
+
+                  Upper Case               
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Remove the following 4 screws on the bottom of the computer:
+
+
+
+ 
+Two 3 mm Phillips from the left side of the computer.
+
+
+
+ 
+One 4.5 mm Phillips near the latch mechanism (this screw may be missing in 800 MHz iBooks)
+
+
+
+ 
+One 14.2 mm Phillips near the front, right corner.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          4 comments                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 22
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Use a straightened paperclip to open the optical drive tray.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          One comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 23
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Pull the optical drive out just enough so that you can access and remove a Phillips screw near the battery compartment.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          9 comments                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 24
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Pull the optical drive a bit more so that you can access and remove a second Phillips screw near the power receptacle.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          2 comments                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 25
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Turn over the computer and open it.
+
+
+
+ 
+Use tweezers (or a refrigerator magnet) to remove the magnet covering a Phillips screw near the middle of the computer.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          One comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 26
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Remove the following 4 screws on the edges of the keyboard area.
+
+
+
+ 
+One 4.5 mm Phillips underneath where the magnet was.
+
+
+
+ 
+Three 6 mm Phillips in plastic depressions.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          One comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 27
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Peel up the foil tape covering the speaker cable near the ports.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 28
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+This is a diagram of the trackpad ribbon clamp connector you will disconnect in the next step.
+
+
+
+ 
+1) With your fingernails, grasp the locking bar on either side and pull up a small amount (about 1/16" or 2 mm).
+
+
+
+ 
+2) After disengaging the locking bar, slide the cable out of the connector.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          One comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 29
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Loosen the trackpad connector by pulling the top piece up slightly, freeing the trackpad ribbon.
+
+
+
+ 
+Slide the orange trackpad ribbon out of the connector.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 30
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Before you can jerk the upper case off with joy, you must disconnect both the blue and white power cable and red and black speaker cable as described in the next steps.
+
+
+
+ 
+Lift the upper case from the left side and use your other hand to pull out the right side in order to clear the power receptacle.
+
+
+
+ 
+There may be a thin metal bar fastened to the upper case by the two screws on either side of the optical drive. This bar provides rigidity around the optical drive; don't forget it when reassembling.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          One comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 31
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+The connectors at the ends of the cables are attached very firmly to the sockets on the logic board. Pulling directly on the cable will either separate the cable from its connector or the socket from the logic board.
+
+
+
+ 
+Lift the upper case enough to disconnect the blue and white power cable from the logic board. Using your fingernails or a dental pick, carefully pry the connector from its socket. Make sure you're pulling only on the connector and not on the socket.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          8 comments                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 32
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Lift the upper case off completely and disconnect the red and black speaker cable from the logic board. As before, make sure you're pulling only on the connector and not on the socket.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          2 comments                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 33
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+There is a magnet that allows the computer to detect when the laptop is closed. If this magnet is not present your computer will not automatically go to sleep. Be sure the magnet is in the position indicated.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          One comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 34
+
+                  Top Shield               
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Your laptop should look approximately like this.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          One comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 35
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Remove the following 14 screws (some models may be missing a couple of screws):
+
+
+
+ 
+One 2.5 mm Phillips.
+
+
+
+ 
+Six 3.5 mm Phillips.
+
+
+
+ 
+One 4.5 mm Phillips near the sleep light with a small shaft.
+
+
+
+ 
+Two 4.5 mm Phillips with larger shafts.
+
+
+
+ 
+Four 5 mm Phillips
+
+
+
+ 
+If a screw is inserted in the left hole, the 14.2 mm screw in step 24 can not be inserted to hold the top case down.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          3 comments                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 36
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Peel back three strips of yellow tape in the bottom left corner.
+
+
+
+ 
+Peel back one strip of foil tape in the upper left corner and another near where the trackpad connects to the logic board.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          2 comments                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 37
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Lift the top shield up from the right side, minding the upper left corner, which may catch on the metal framework.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 38
+
+                  Display               
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Your laptop should look approximately like this.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 39
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+If you have already removed the hard drive in a previous step, your iBook may differ slightly from the picture.
+
+
+
+ 
+Disconnect the microphone cable from the front, left corner of the logic board.
+
+
+
+ 
+Peel back the black tape and free the microphone cable from the hard drive.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 40
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Use the black plastic handle to disconnect the display data cable from the logic board.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 41
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+If you have already removed the modem in a previous step, you can skip this step.
+
+
+
+ 
+Remove the single Phillips securing the display data cable to the metal framework.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 42
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Deroute the display data and microphone cables.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          One comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 43
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Peel back the yellow tape securing the inverter cable to the optical drive.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 44
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Disconnect the inverter cable from the logic board.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 45
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Carefully deroute the inverter cable from beneath the optical drive.
+
+
+
+ 
+Deroute the Airport antenna cable from beneath the optical drive.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                        Add a comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Step 46
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+Support the display with your free hand while removing the following screws.
+
+
+
+ 
+Remove the single Phillips screw on the outer edge of either hinge (two screws total).
+
+
+
+ 
+Tilt the display back to get over two small nubbins, and then slide it directly from the case and away.
+
+
+
+
+
+
+
+
+ Edit         
+
+
+
+
+
+
+                                          One comment                     
+
+
+
+
+
+ Add a comment      
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Almost done!               
+
+To reassemble your device, follow these instructions in reverse order. 
+
+
+
+                  Conclusion               
+
+To reassemble your device, follow these instructions in reverse order. 
+
+
+
+
+                  Give the author +30 points!               
+
+               You're Finished!            
+
+Cancel: I did not complete this guide.
+
+
+                                                                                          27 other people completed this guide.                                             
+
+
+
+
+
+
+
+
+
+Attached Documents
+
+
+
+
+ 
+
+
+iBook-G3-12"-Screw-Guide.pdf
+
+
+PDF - 584.82 kb
+
+
+            View      
+
+
+
+
+
+
+
+
+
+
+
+
+Author
+
+
+                                          with 5 other contributors 
+
+
+
+
+
+
+
+
+
+
+                        iRobot                     
+
+Member since: 09/24/09
+1 Reputation
+
+                                          636 Guides authored                  
+
+
+
+
+                           Badges:
+                           36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            +33 more badges                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+            0 Comments         
+
+
+
+ Add a comment
+
+
+
+
+
+
+
+
+Add Comment
+
+
+
+
+
+
+
+
+
+
+
+1024
+
+
+            Cancel         
+Post comment
+
+
+
+
+
+
+
+
+
+
+Embed this guide
+Choose a size and copy the code below to embed this guide as a small widget on your site / forum.
+
+Single Step
+Full Guide
+
+
+Small - 600px
+Medium - 800px
+Large - 1200px
+
+
+<iframe id="dozuki-embed-132" src="https://www.ifixit.com/Guide/embed/132/full" width="800" allowfullscreen frameborder="0"></iframe>
+<script>window.addEventListener("message",function(a){var b=document.getElementById("dozuki-embed-132"),c=a.data[0],d=a.data[1];switch(c){case"setHeight":b.style.height=d+"px"}},!1);</script>
+<iframe src="https://www.ifixit.com/Guide/embed/132" width="800" height="584" allowfullscreen frameborder="0"></iframe>
+
+
+Preview
+
+
+
+
+ 
+
+ 
+ 
+
+ 
+
+ View Statistics:
+
+Past 24 Hours: 3
+Past 7 Days: 12
+Past 30 Days: 35
+All Time: 34,434
+
+
+
+
+
+ 
+
+
+
+

@@ -1,0 +1,1844 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Car and Truck Repair - iFixit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fix Your Stuff
+Join the Community
+Store
+
+
+
+
+
+
+
+
+Car and Truck Repair
+Table of Contents
+BackgroundIdentificationRepair DocumentationAdditional Information  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+Edit 
+
+
+
+Options 
+
+
+
+
+
+            History               
+
+
+
+
+
+
+Show Other Languages 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               Car and Truck Repair            
+
+
+                  Repair manuals and support for 4-wheeled passenger and cargo vehicles.               
+
+
+                  Author:                  
+Andrew Optimus Goldheart
+(and 12 other contributors)
+
+
+
+
+
+
+
+
+
+
+ Create a Guide
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+                                          57 Categories                                       
+
+New Page                     
+
+
+
+
+
+
+                           Acura                        
+
+
+
+
+
+
+                           Audi                        
+
+
+
+
+
+
+                           BMW                        
+
+
+
+
+
+
+                           Buick                        
+
+
+
+
+
+
+                           Cadillac                        
+
+
+
+
+
+
+                           Chevrolet                        
+
+
+
+
+
+
+                           Chrysler                        
+
+
+
+
+
+
+                           Citroën                        
+
+
+
+
+
+
+                           Dodge                        
+
+
+
+
+
+
+                           Fiat                        
+
+
+
+
+
+
+                           Ford                        
+
+
+
+
+
+
+                           GMC                        
+
+
+
+
+
+
+                           Honda                        
+
+
+
+
+
+
+                           Hummer                        
+
+
+
+
+
+
+                           Hyundai                        
+
+
+
+
+
+
+                           Infiniti                        
+
+
+
+
+
+
+                           Isuzu                        
+
+
+
+
+
+
+                           Jaguar                        
+
+
+
+
+
+
+                           Jeep                        
+
+
+
+
+
+
+                           Kia                        
+
+
+
+
+
+
+                           Land Rover                        
+
+
+
+
+
+
+                           Lexus                        
+
+
+
+
+
+
+                           Lincoln                        
+
+
+
+
+
+
+                           Lotus                        
+
+
+
+
+
+
+                           Mazda                        
+
+
+
+
+
+
+                           Mercedes-Benz                        
+
+
+
+
+
+
+                           Mercury                        
+
+
+
+
+
+
+                           Mini                        
+
+
+
+
+
+
+                           Mitsubishi                        
+
+
+
+
+
+
+                           Morris Garages (MG) Car                        
+
+
+
+
+
+
+                           Nissan                        
+
+
+
+
+
+
+                           Oldsmobile                        
+
+
+
+
+
+
+                           Peugeot                        
+
+
+
+
+
+
+                           Pontiac                        
+
+
+
+
+
+
+                           Porsche                        
+
+
+
+
+
+
+                           Renault                        
+
+
+
+
+
+
+                           Rivian                        
+
+
+
+
+
+
+                           Saab                        
+
+
+
+
+
+
+                           Saturn                        
+
+
+
+
+
+
+                           Scion                        
+
+
+
+
+
+
+                           SEAT Car                        
+
+
+
+
+
+
+                           Smart                        
+
+
+
+
+
+
+                           Subaru                        
+
+
+
+
+
+
+                           Suzuki                        
+
+
+
+
+
+
+                           Tesla                        
+
+
+
+
+
+
+                           Toyota                        
+
+
+
+
+
+
+                           Bugatti                        
+
+
+
+
+
+
+                           Ferrari                        
+
+
+
+
+
+
+                           Geely                        
+
+
+
+
+
+
+                           Lamborghini                        
+
+
+
+
+
+
+                           Mahindra                        
+
+
+
+
+
+
+                           Vauxhall                        
+
+
+
+
+
+
+                           Volkswagen                        
+
+
+
+
+
+
+                           Volvo                        
+
+
+
+
+
+
+                           Willys-Overland                        
+
+
+
+
+
+
+                           Auto Part                        
+
+
+
+
+
+
+                           Auto Accessory                        
+
+
+
+
+
+
+
+ 
+
+Guides
+
+
+
+            Replacement Guides         
+
+
+
+
+
+
+
+
+
+
+
+ Featured
+
+
+
+
+                           Battery                        
+
+
+
+
+
+
+
+
+
+
+                           Brake Pads                        
+
+
+
+
+
+
+
+
+
+
+                           Car Battery Terminal                        
+
+
+
+
+
+
+
+
+
+
+                           Car Tire Valve Stem                        
+
+
+
+
+
+
+
+
+
+
+                           Clutch                        
+
+
+
+
+
+
+
+
+
+
+                           Floorboard Carpeting                        
+
+
+
+
+
+
+
+
+
+
+                           HID Headlight Bulb                        
+
+
+
+
+
+
+
+
+
+
+                           Headlights                        
+
+
+
+
+
+
+
+
+
+
+                           How To Clean Car Floor Mats                        
+
+
+
+
+
+
+
+
+
+
+                           LED Pod Light                        
+
+
+
+
+
+
+
+
+
+
+                           LED Tailgate Strip Light                        
+
+
+
+
+
+
+
+
+
+
+                           License plate bulbs                        
+
+
+
+
+
+
+
+
+
+
+                           Philips Style LED Daytime Running Lights Upgrade                        
+
+
+
+
+
+
+
+
+
+
+                           Sun Visor                        
+
+
+
+
+
+
+
+
+
+
+                           Tow Hitch Pod Light                        
+
+
+
+
+
+
+
+
+
+
+                           Tow Hook Mount                        
+
+
+
+
+
+
+
+
+
+
+                           Truck OEM Halogen Bulbs Cab Roof Marker Lights                        
+
+
+
+
+
+
+
+
+
+
+                           Wheel Lock                        
+
+
+
+
+
+
+
+
+
+
+                           license plate lights                        
+
+
+
+
+
+
+
+
+
+
+                           spark plugs and ignition/coil pack                        
+
+
+
+
+
+
+
+
+
+            Techniques         
+
+
+
+
+
+
+
+
+
+
+
+ Featured
+
+
+
+
+                           Debadging a Car                        
+
+
+
+
+
+
+
+
+
+
+                           Hand Painting a Car                        
+
+
+
+
+
+
+
+
+
+
+                           How To Diagnose an Engine Misfire                        
+
+
+
+
+
+
+
+
+
+
+                           How To Do An Oil Change With An Oil Extractor/Pump                        
+
+
+
+
+
+
+
+
+
+
+                           How To Remove Hardened Masking Tape From Car Paint                        
+
+
+
+
+
+
+
+
+
+
+                           How jump start a Car or Truck                        
+
+
+
+
+
+
+
+
+
+
+                           How to Blacken plastic car fenders / bumpers                        
+
+
+
+
+
+
+
+
+
+
+                           How to Check a Car's Tire Pressure                        
+
+
+
+
+
+
+
+
+
+
+                           How to Diagnose an Engine Problem                        
+
+
+
+
+
+
+
+
+
+
+                           How to Disconnect a Car or Truck Battery                        
+
+
+
+
+
+
+
+
+
+
+                           How to Fix A Rusted Hitch                        
+
+
+
+
+
+
+
+
+
+
+                           How to Fix Paint Chips or Large Scratches on a Car                        
+
+
+
+
+
+
+
+
+
+
+                           How to Fix a Car Dent                        
+
+
+
+
+
+
+
+
+
+
+                           How to Fix a Car with No Heat                        
+
+
+
+
+
+
+
+
+
+
+                           How to Fix a Loose Car Window                        
+
+
+
+
+
+
+
+
+
+
+                           How to Install A Car Camera Into Cigar Jack                        
+
+
+
+
+
+
+
+
+
+
+                           How to Jack Up a Car (or Truck)                        
+
+
+
+
+
+
+
+
+
+
+                           How to Remove Rust on Car Body                        
+
+
+
+
+
+
+
+
+
+
+                           How to Remove Scratches from a Car's Interior                        
+
+
+
+
+
+
+
+
+
+
+                           How to Remove Stickers From a Car                        
+
+
+
+
+
+
+
+
+
+
+                           How to Repair Automobile Scratches & Paint Chips                        
+
+
+
+
+
+
+
+
+
+
+                           How to Repair Car Scratches                        
+
+
+
+
+
+
+
+
+
+
+                           How to Repair a Scratch On a Car                        
+
+
+
+
+
+
+
+
+
+
+                           How to Repair a Stuck Car Door Latch                        
+
+
+
+
+
+
+
+
+
+
+                           How to Repair a Windshield Chip or Crack                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Featured
+
+
+
+
+                           How to Restore Foggy Car Headlights                        
+
+
+
+
+
+
+
+
+
+
+                           How to Safely Raise a Vehicle Using Ramps                        
+
+
+
+
+
+
+
+
+
+
+                           How to Sew Torn Car Seat Upholstery                        
+
+
+
+
+
+
+
+
+
+
+                           How to Temporarily Fix Minor Radiator Leaks                        
+
+
+
+
+
+
+
+
+
+
+                           How to fix autobody dents and cracks                        
+
+
+
+
+
+
+
+
+
+
+                           How to know the manufacture's date of an automobile battery before buying it?                        
+
+
+
+
+
+
+
+
+
+
+                           How to set up a warning triangle                        
+
+
+
+
+
+
+
+
+
+
+                           How to wind back the EPB, electronic parking brake, to change rear brake pads                        
+
+
+
+
+
+
+
+
+
+
+                           Repairing Vehicle Headliner                        
+
+
+
+
+
+
+
+
+
+                                          Troubleshooting                                       
+
+New Page                     
+
+
+
+
+
+
+                           Diagnosing Suspension Knocks                        
+
+
+
+
+
+
+
+
+
+
+         Support Questions  
+Ask a Question
+
+
+
+
+
+
+
+
+                                     5 Answers                              
+12 Score
+
+
+
+truck not starting,has power but not turnover sound
+
+
+
+Car and Truck
+
+
+
+
+
+
+
+
+
+                                     20 Answers                              
+44 Score
+
+
+
+Need to turn off passlock
+
+
+
+Chevrolet
+
+
+
+
+
+
+
+
+
+                                     2 Answers                              
+4 Score
+
+
+
+Heater only blowing out front vents, no heat to feet or defrost. Why?
+
+
+
+1998-2003 Mazda Protege
+
+
+
+
+
+
+
+
+
+                                     2 Answers                              
+1 Score
+
+
+
+Why does my brake pedal go to the floor when the engine is running but
+
+
+
+2000-2006 GMC Yukon
+
+
+
+
+
+
+
+Documents 
+
+
+
+
+
+
+ 
+
+
+
+            Tools 
+
+
+These are some common tools used to work on this device. You might not need every tool for every procedure.
+
+
+
+
+
+
+
+
+
+Electrical Tape in 6 Assorted Colors
+
+
+
+
+
+            View      
+ 
+
+
+
+
+
+
+
+
+Smart Wrench
+
+
+
+
+
+            View      
+ 
+
+
+
+
+
+
+
+
+Nitrile Gloves 100 Box
+
+
+
+
+
+            View      
+ 
+
+
+
+
+
+
+
+
+Phillips #1 Screwdriver
+
+
+
+
+
+            View      
+ 
+
+
+
+
+
+
+
+
+Digital Multimeter
+
+
+
+
+
+            View      
+ 
+
+
+
+
+
+
+
+
+Mahi Driver Kit - 48 Bit Driver Kit
+
+
+
+
+
+            View      
+ 
+
+
+
+
+
+
+
+
+6-in-1 Screwdriver
+
+
+
+
+
+            View      
+ 
+
+
+
+
+
+
+
+
+Microfiber Cleaning Cloths
+
+
+
+
+
+            View      
+ 
+
+
+
+
+
+
+
+
+Plastic Cards
+
+
+
+
+
+            View      
+ 
+
+
+
+
+
+
+
+
+Heat Gun
+
+
+
+
+
+            View      
+ 
+
+
+
+
+
+
+
+
+Flathead 1.5 mm Screwdriver
+
+
+
+
+
+            View      
+ 
+
+
+
+
+
+
+
+
+Large Needle Nose Pliers
+
+
+
+
+
+            View      
+ 
+
+
+
+
+
+
+
+
+
+Background
+A car (or automobile) is a wheeled motor vehicle used by humans for transportation. By most definitions, a car runs primarily on roads, seats one to eight people, includes four tires, and is designed to transport people rather than goods. Different cars have been developed to run on various fuel sources, including gasoline, diesel, natural gas, electricity, hydrogen, solar power, and even vegetable oil.
+Karl Benz is commonly credited with the invention of the modern automobile, but the first steam-powered automobile capable of human transportation was built by Nicolas-Joseph Cugnot in 1769. Hayden Wischett designed the first car powered by the de Rivaz engine, a hydrogen-fueled internal combustion engine. Several more innovations continued throughout the 1800s, including the invention of the internal combustion engine in 1823 by Samuel Brown, an English engineer. It was not until 1880 that Karl Benz developed a petrol- or gasoline-powered automobile that was powered by a single-cylinder, four-stroke engine. Karl Benz patented his Benz Patent-Motorwagen in 1886, which is regarded as the birth year of the modern automobile. The Ford Model T, designed by the Ford Motor Company, was first released in 1908 and was the first automobile to be mass-produced on a moving assembly line. Over 15,000,000 Model T cars were produced by Ford between the years of 1913 and 1927.
+Identification
+Identifying your automobile requires knowing both the make (manufacturer) and model of the automobile, as well as the model year. Most automobiles have "generations," where few—if any—major changes are made to the design for multiple years.
+Repair Documentation
+Changing-a-tire.pdf
+Additional Information
+Wikipedia: Auto2008chev.hhr 2.2lmobileWikipedia: Pickup TruckAutomobile History 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Author
+
+
+                                          with 12 other contributors 
+
+
+
+
+
+
+
+
+
+
+                        Andrew Optimus Goldheart                     
+
+Member since: 10/17/09
+499,079 Reputation
+
+                                          407 Guides authored                  
+
+
+
+
+                           Badges:
+                           44
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            +41 more badges                           
+
+
+
+
+
+Team
+
+
+
+
+
+
+
+
+
+                           iFixit                        
+
+                                                      Member of iFixit 
+
+
+                        Community                     
+
+                                                141 Members                     
+
+                                                15,874 Guides authored                     
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ View Statistics:
+
+Past 24 Hours: 1,161
+Past 7 Days: 8,408
+Past 30 Days: 33,044
+All Time: 2,603,430
+
+
+
+
+
+ 
+
+
+
+

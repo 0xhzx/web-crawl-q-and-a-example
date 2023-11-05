@@ -1,0 +1,4 @@
+*/venv
+*/.env
+chatgpt-pdf/venv
+chatgpt-pdf/.env
